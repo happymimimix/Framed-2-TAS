@@ -16,4 +16,4 @@ I have no idea why they did that, it make completely no sense!
 
 I don't count that as completing **ALL** of Framed 2. 
 
-Use [this patch](https://github.com/happymimimix/Framed-Collection-Incomplete-Panel-Fix/releases) to unlock the real FULL version of this game. 
+You shall use [this patch](https://github.com/happymimimix/Framed-Collection-Incomplete-Panel-Fix/releases) to unlock the real FULL version of this game before using this macro. 
