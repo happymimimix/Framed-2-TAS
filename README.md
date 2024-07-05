@@ -1,8 +1,8 @@
-## Framed-2-TAS
-A macro that can automatically complete all of Framed 2 as fast as possible. 
+## Framed 2 TAS
+### A macro that can automatically complete all of Framed 2 as fast as possible. 
 
 
-Notice: 
+## Notice: 
 
 The cutscene at where the girl fall down from the tower has been cut in Framed Collection. 
 
